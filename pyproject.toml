@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flywheel-engine"
+version = "0.1.0"
+description = "The compounding loop: every exchange becomes a tile, tiles inject context, the system gets smarter."
+license = {text = "MIT"}
+requires-python = ">=3.10"
+keywords = ["flywheel", "agents", "knowledge", "compounding", "tiles", "plato", "context-injection"]
+classifiers = ["Development Status :: 3 - Alpha", "License :: OSI Approved :: MIT License"]
+
+[project.urls]
+Homepage = "https://github.com/cocapn/cocapn"
+
+[tool.setuptools.packages.find]
+include = ["flywheel_engine*"]
