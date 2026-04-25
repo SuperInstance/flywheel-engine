@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "flywheel-engine"
-version = "0.1.0"
+version = "0.2.0"
 description = "The compounding loop: every exchange becomes a tile, tiles inject context, the system gets smarter."
 readme = "README.md"
 license = {text = "MIT"}
