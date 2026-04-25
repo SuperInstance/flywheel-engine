@@ -1,5 +1,8 @@
 # flywheel-engine
 
+[![PyPI](https://img.shields.io/pypi/v/flywheel-engine)](https://pypi.org/project/flywheel-engine/) [![Python](https://img.shields.io/pypi/pyversions/flywheel-engine)](https://pypi.org/project/flywheel-engine/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 The compounding intelligence loop: every exchange becomes a tile, tiles inject context, the system compounds.
 
 ## The Flywheel
